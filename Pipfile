@@ -85,7 +85,8 @@ pytz = "==2024.1"
 pyyaml = "==6.0.1"
 referencing = "==0.35.1"
 regex = "==2024.5.15"
-requests = "==2.32.3"
+requests = ">=2.31.0"
+requests-aws4auth = ">=1.2.3"
 rich = "==13.7.1"
 rpds-py = "==0.18.1"
 rsa = "==4.7.2"
@@ -111,6 +112,7 @@ urllib3 = "==2.2.1"
 xlsxwriter = "==3.2.0"
 yarl = "==1.9.4"
 load-dotenv = "*"
+fitz = ">=0.0.1.dev2"
 
 [dev-packages]
 
