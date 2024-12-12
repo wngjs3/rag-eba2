@@ -1,0 +1,18 @@
+2024-12-11 23:53:25,251 - lib.bedrock - INFO - Starting extract_text_from_image_using_bedrock function
+2024-12-11 23:53:25,251 - lib.bedrock - INFO - Creating Bedrock runtime client
+2024-12-11 23:53:25,260 - botocore.credentials - INFO - Found credentials from IAM Role: ec2admin
+2024-12-11 23:53:25,311 - lib.bedrock - INFO - Reading image file: ./images_mu/page_0_main.png
+2024-12-11 23:53:25,311 - lib.bedrock - INFO - Image successfully encoded to base64
+2024-12-11 23:53:25,311 - lib.bedrock - INFO - Creating prompt
+2024-12-11 23:53:25,311 - lib.bedrock - INFO - Preparing request body
+2024-12-11 23:53:25,311 - lib.bedrock - INFO - Request body prepared
+2024-12-11 23:53:25,311 - lib.bedrock - INFO - Invoking model
+2024-12-11 23:53:28,943 - lib.extractpdf - INFO - Main extracted text: The image is completely blank, without any text or content. It appears to be a dummy or placeholder PDF file with the text "Dummy PDF file" at the top.
+2024-12-11 23:53:28,971 - botocore.credentials - INFO - Found credentials from IAM Role: ec2admin
+2024-12-11 23:54:13,972 - lib.opensearch - INFO - item_page_number: 0
+2024-12-11 23:54:13,972 - lib.opensearch - INFO - item_image_file_name: ./images_mu/page_0_main.png
+2024-12-11 23:54:13,973 - lib.opensearch - INFO - item_text: The image is completely blank, without any text or content. It appears to be a dummy or placeholder PDF file with the text "Dummy PDF file" at the top.
+2024-12-11 23:54:13,973 - lib.opensearch - INFO - item_type: main
+2024-12-11 23:54:13,978 - botocore.credentials - INFO - Found credentials from IAM Role: ec2admin
+2024-12-11 23:54:14,743 - opensearch - INFO - POST https://kviqznsn9qgriwrn6wze.ap-northeast-2.aoss.amazonaws.com:443/bedrock/_doc [status:201 request:0.558s]
+2024-12-11 23:54:14,743 - lib.opensearch - INFO - Document indexing status: {'_index': 'bedrock', '_id': '1%3A0%3AyRkluJMBOCr3gtoJBb2K', '_version': 1, 'result': 'created', '_shards': {'total': 0, 'successful': 0, 'failed': 0}, '_seq_no': 0, '_primary_term': 0}

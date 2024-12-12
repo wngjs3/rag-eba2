@@ -7,13 +7,21 @@
 
 ```bash
 curl https://pyenv.run | bash # You will need to modify your .bashrc according to the pyenv prompts.
+echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.bashrc
+echo '[[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.bashrc
+echo 'eval "$(pyenv init -)"' >> ~/.bashrc
+echo 'eval "$(pyenv virtualenv-init -)"' >> ~/.bashrc
+source ~/.bashrc
+sudo yum update -y
+sudo yum install -y gcc make patch zlib-devel bzip2 bzip2-devel readline-devel sqlite sqlite-devel openssl-devel tk-devel libffi-devel xz-devel ncurses-devel
 sudo yum install git
+
 pyenv install 3.12.7 # This app use python 3.12.7
-sudo yum update
+
 sudo yum groupinstall "Development Tools" -y
-sudn dnf install openssl-devel bzip2-devel libffi-devel zlib-devel -y
+sudo dnf install openssl-devel bzip2-devel libffi-devel zlib-devel -y
 pyenv global 3.12.7
-pip instal pipenv
+pip install pipenv
 ```
 
 ## Environment Setup

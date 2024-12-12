@@ -45,21 +45,21 @@ def add_debug_log(message):
 if st.session_state.bedrock_session is None:
     load_dotenv(override=True)
     st.session_state.bedrock_session = bedrock.get_bedrock_session(
-        os.environ["AWS_ACCESS_KEY_ID"],
-        os.environ["AWS_SECRET_ACCESS_KEY"],
+        # os.environ["AWS_ACCESS_KEY_ID"],
+        # os.environ["AWS_SECRET_ACCESS_KEY"],
         os.environ["AWS_REGION"]
     )
     st.session_state.bedrock_sonnet35_session = bedrock.get_bedrock_session(
-        os.environ["AWS_ACCESS_KEY_ID"],
-        os.environ["AWS_SECRET_ACCESS_KEY"],
+        # os.environ["AWS_ACCESS_KEY_ID"],
+        # os.environ["AWS_SECRET_ACCESS_KEY"],
         os.environ["AWS_REGION"]
     )
     st.session_state.bedrock_modelid = os.environ["BEDROCK_MODEL_ID"]
     st.session_state.bedrock_sonnet35_modelid = os.environ["BEDROCK_MODEL_ID"]
     st.session_state.opensearch_endpoint = os.environ["OPENSEARCH_ENDPOINT"]
     st.session_state.opensearch_index_name = os.environ["OPENSEARCH_INDEX_NAME"]
-    st.session_state.opensearch_username = os.environ["OPENSEARCH_USERNAME"]
-    st.session_state.opensearch_password = os.environ["OPENSEARCH_PASSWORD"]
+    # st.session_state.opensearch_username = os.environ["OPENSEARCH_USERNAME"]
+    # st.session_state.opensearch_password = os.environ["OPENSEARCH_PASSWORD"]
 
 # Title
 st.title("Multimodal PDF Search")

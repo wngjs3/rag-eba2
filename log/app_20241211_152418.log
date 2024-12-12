@@ -1,0 +1,205 @@
+2024-12-11 15:24:18,432 - lib.extractpdf - INFO - Page 1, Image 0: xref: 196
+2024-12-11 15:24:18,439 - lib.extractpdf - INFO - - PDF size: 41.981109619140625x26.423171997070312
+2024-12-11 15:24:18,439 - lib.extractpdf - INFO - - Actual image size: 206x130
+2024-12-11 15:24:18,466 - lib.extractpdf - INFO - Saved expanded high resolution image: page_1_img_0_small.png
+2024-12-11 15:24:18,466 - lib.extractpdf - INFO - Page 1, Image 1: xref: 197
+2024-12-11 15:24:18,467 - lib.extractpdf - INFO - - PDF size: 41.981109619140625x26.423171997070312
+2024-12-11 15:24:18,467 - lib.extractpdf - INFO - - Actual image size: 206x130
+2024-12-11 15:24:18,483 - lib.extractpdf - INFO - Saved expanded high resolution image: page_1_img_1_small.png
+2024-12-11 15:24:18,483 - lib.extractpdf - INFO - Page 1, Image 2: xref: 198
+2024-12-11 15:24:18,484 - lib.extractpdf - INFO - - PDF size: 41.981109619140625x26.423171997070312
+2024-12-11 15:24:18,485 - lib.extractpdf - INFO - - Actual image size: 206x130
+2024-12-11 15:24:18,493 - lib.extractpdf - INFO - Saved expanded high resolution image: page_1_img_2_small.png
+2024-12-11 15:24:18,493 - lib.extractpdf - INFO - Page 1, Image 3: xref: 199
+2024-12-11 15:24:18,494 - lib.extractpdf - INFO - - PDF size: 41.981109619140625x26.423171997070312
+2024-12-11 15:24:18,494 - lib.extractpdf - INFO - - Actual image size: 206x130
+2024-12-11 15:24:18,502 - lib.extractpdf - INFO - Saved expanded high resolution image: page_1_img_3_small.png
+2024-12-11 15:24:18,946 - lib.extractpdf - INFO - Page 4, Image 0: xref: 335
+2024-12-11 15:24:18,977 - lib.extractpdf - INFO - - PDF size: 199.59738159179688x149.73590087890625
+2024-12-11 15:24:18,977 - lib.extractpdf - INFO - - Actual image size: 640x480
+2024-12-11 15:24:19,002 - lib.extractpdf - INFO - Saved expanded high resolution image: page_4_img_0_small.png
+2024-12-11 15:24:19,002 - lib.extractpdf - INFO - Page 4, Image 1: xref: 336
+2024-12-11 15:24:19,003 - lib.extractpdf - INFO - - PDF size: 43.4591064453125x28.593994140625
+2024-12-11 15:24:19,003 - lib.extractpdf - INFO - - Actual image size: 408x268
+2024-12-11 15:24:19,016 - lib.extractpdf - INFO - Saved expanded high resolution image: page_4_img_1_small.png
+2024-12-11 15:24:19,016 - lib.extractpdf - INFO - Page 4, Image 2: xref: 337
+2024-12-11 15:24:19,017 - lib.extractpdf - INFO - - PDF size: 43.4591064453125x29.256805419921875
+2024-12-11 15:24:19,017 - lib.extractpdf - INFO - - Actual image size: 404x272
+2024-12-11 15:24:19,026 - lib.extractpdf - INFO - Saved expanded high resolution image: page_4_img_2_small.png
+2024-12-11 15:24:19,026 - lib.extractpdf - INFO - Page 4, Image 3: xref: 338
+2024-12-11 15:24:19,028 - lib.extractpdf - INFO - - PDF size: 42.038909912109375x26.7950439453125
+2024-12-11 15:24:19,028 - lib.extractpdf - INFO - - Actual image size: 584x372
+2024-12-11 15:24:19,035 - lib.extractpdf - INFO - Saved expanded high resolution image: page_4_img_3_small.png
+2024-12-11 15:24:19,035 - lib.extractpdf - INFO - Page 4, Image 4: xref: 339
+2024-12-11 15:24:19,039 - lib.extractpdf - INFO - - PDF size: 42.322967529296875x28.4046630859375
+2024-12-11 15:24:19,039 - lib.extractpdf - INFO - - Actual image size: 234x205
+2024-12-11 15:24:19,046 - lib.extractpdf - INFO - Saved expanded high resolution image: page_4_img_4_small.png
+2024-12-11 15:24:19,393 - lib.extractpdf - INFO - Page 6, Image 0: xref: 394
+2024-12-11 15:24:19,406 - lib.extractpdf - INFO - - PDF size: 65.02176666259766x65.02175903320312
+2024-12-11 15:24:19,406 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:19,421 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_0_small.png
+2024-12-11 15:24:19,421 - lib.extractpdf - INFO - Page 6, Image 1: xref: 403
+2024-12-11 15:24:19,422 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:24:19,422 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:19,439 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_1_small.png
+2024-12-11 15:24:19,439 - lib.extractpdf - INFO - Page 6, Image 2: xref: 404
+2024-12-11 15:24:19,440 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:24:19,440 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:19,457 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_2_small.png
+2024-12-11 15:24:19,457 - lib.extractpdf - INFO - Page 6, Image 3: xref: 405
+2024-12-11 15:24:19,457 - lib.extractpdf - INFO - - PDF size: 65.02176666259766x65.02175903320312
+2024-12-11 15:24:19,457 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:19,474 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_3_small.png
+2024-12-11 15:24:19,474 - lib.extractpdf - INFO - Page 6, Image 4: xref: 406
+2024-12-11 15:24:19,475 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:24:19,475 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:19,492 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_4_small.png
+2024-12-11 15:24:19,492 - lib.extractpdf - INFO - Page 6, Image 5: xref: 407
+2024-12-11 15:24:19,493 - lib.extractpdf - INFO - - PDF size: 65.02174377441406x65.02175903320312
+2024-12-11 15:24:19,493 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:19,511 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_5_small.png
+2024-12-11 15:24:19,511 - lib.extractpdf - INFO - Page 6, Image 6: xref: 408
+2024-12-11 15:24:19,512 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:24:19,512 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:19,535 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_6_small.png
+2024-12-11 15:24:19,535 - lib.extractpdf - INFO - Page 6, Image 7: xref: 409
+2024-12-11 15:24:19,537 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:24:19,537 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:19,563 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_7_small.png
+2024-12-11 15:24:19,563 - lib.extractpdf - INFO - Page 6, Image 8: xref: 410
+2024-12-11 15:24:19,564 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:24:19,564 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:19,585 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_8_small.png
+2024-12-11 15:24:19,585 - lib.extractpdf - INFO - Page 6, Image 9: xref: 411
+2024-12-11 15:24:19,586 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:24:19,586 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:19,599 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_9_small.png
+2024-12-11 15:24:19,600 - lib.extractpdf - INFO - Page 6, Image 10: xref: 412
+2024-12-11 15:24:19,600 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:24:19,600 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:19,613 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_10_small.png
+2024-12-11 15:24:19,613 - lib.extractpdf - INFO - Page 6, Image 11: xref: 395
+2024-12-11 15:24:19,614 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:24:19,614 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:19,630 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_11_small.png
+2024-12-11 15:24:19,630 - lib.extractpdf - INFO - Page 6, Image 12: xref: 413
+2024-12-11 15:24:19,631 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:24:19,631 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:19,644 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_12_small.png
+2024-12-11 15:24:19,644 - lib.extractpdf - INFO - Page 6, Image 13: xref: 414
+2024-12-11 15:24:19,645 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:24:19,645 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:19,657 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_13_small.png
+2024-12-11 15:24:19,657 - lib.extractpdf - INFO - Page 6, Image 14: xref: 415
+2024-12-11 15:24:19,658 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:24:19,658 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:19,670 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_14_small.png
+2024-12-11 15:24:19,670 - lib.extractpdf - INFO - Page 6, Image 15: xref: 416
+2024-12-11 15:24:19,671 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:24:19,671 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:19,682 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_15_small.png
+2024-12-11 15:24:19,682 - lib.extractpdf - INFO - Page 6, Image 16: xref: 396
+2024-12-11 15:24:19,683 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:24:19,683 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:19,702 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_16_small.png
+2024-12-11 15:24:19,702 - lib.extractpdf - INFO - Page 6, Image 17: xref: 397
+2024-12-11 15:24:19,703 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:24:19,703 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:19,721 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_17_small.png
+2024-12-11 15:24:19,721 - lib.extractpdf - INFO - Page 6, Image 18: xref: 398
+2024-12-11 15:24:19,722 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:24:19,722 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:19,739 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_18_small.png
+2024-12-11 15:24:19,739 - lib.extractpdf - INFO - Page 6, Image 19: xref: 399
+2024-12-11 15:24:19,739 - lib.extractpdf - INFO - - PDF size: 65.02176666259766x65.02175903320312
+2024-12-11 15:24:19,740 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:19,754 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_19_small.png
+2024-12-11 15:24:19,754 - lib.extractpdf - INFO - Page 6, Image 20: xref: 400
+2024-12-11 15:24:19,755 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:24:19,755 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:19,771 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_20_small.png
+2024-12-11 15:24:19,772 - lib.extractpdf - INFO - Page 6, Image 21: xref: 401
+2024-12-11 15:24:19,772 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:24:19,772 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:19,789 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_21_small.png
+2024-12-11 15:24:19,789 - lib.extractpdf - INFO - Page 6, Image 22: xref: 402
+2024-12-11 15:24:19,790 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:24:19,790 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:19,807 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_22_small.png
+2024-12-11 15:24:19,952 - lib.extractpdf - INFO - Page 7, Image 0: xref: 456
+2024-12-11 15:24:19,968 - lib.extractpdf - INFO - - PDF size: 30.661666870117188x30.661666870117188
+2024-12-11 15:24:19,968 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:19,978 - lib.extractpdf - INFO - Saved expanded high resolution image: page_7_img_0_small.png
+2024-12-11 15:24:19,979 - lib.extractpdf - INFO - Page 7, Image 1: xref: 457
+2024-12-11 15:24:19,979 - lib.extractpdf - INFO - - PDF size: 30.661666870117188x30.661666870117188
+2024-12-11 15:24:19,979 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:19,987 - lib.extractpdf - INFO - Saved expanded high resolution image: page_7_img_1_small.png
+2024-12-11 15:24:19,987 - lib.extractpdf - INFO - Page 7, Image 2: xref: 458
+2024-12-11 15:24:19,988 - lib.extractpdf - INFO - - PDF size: 30.583023071289062x30.661666870117188
+2024-12-11 15:24:19,988 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:19,994 - lib.extractpdf - INFO - Saved expanded high resolution image: page_7_img_2_small.png
+2024-12-11 15:24:19,994 - lib.extractpdf - INFO - Page 7, Image 3: xref: 459
+2024-12-11 15:24:19,995 - lib.extractpdf - INFO - - PDF size: 30.66168212890625x30.583038330078125
+2024-12-11 15:24:19,995 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:20,002 - lib.extractpdf - INFO - Saved expanded high resolution image: page_7_img_3_small.png
+2024-12-11 15:24:20,002 - lib.extractpdf - INFO - Page 7, Image 4: xref: 460
+2024-12-11 15:24:20,003 - lib.extractpdf - INFO - - PDF size: 30.583038330078125x30.583038330078125
+2024-12-11 15:24:20,003 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:20,011 - lib.extractpdf - INFO - Saved expanded high resolution image: page_7_img_4_small.png
+2024-12-11 15:24:20,011 - lib.extractpdf - INFO - Page 7, Image 5: xref: 461
+2024-12-11 15:24:20,012 - lib.extractpdf - INFO - - PDF size: 30.5830078125x30.583038330078125
+2024-12-11 15:24:20,012 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:20,018 - lib.extractpdf - INFO - Saved expanded high resolution image: page_7_img_5_small.png
+2024-12-11 15:24:20,018 - lib.extractpdf - INFO - Page 7, Image 6: xref: 462
+2024-12-11 15:24:20,019 - lib.extractpdf - INFO - - PDF size: 30.661651611328125x30.661666870117188
+2024-12-11 15:24:20,019 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:20,025 - lib.extractpdf - INFO - Saved expanded high resolution image: page_7_img_6_small.png
+2024-12-11 15:24:20,025 - lib.extractpdf - INFO - Page 7, Image 7: xref: 463
+2024-12-11 15:24:20,026 - lib.extractpdf - INFO - - PDF size: 30.661651611328125x30.661666870117188
+2024-12-11 15:24:20,026 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:20,033 - lib.extractpdf - INFO - Saved expanded high resolution image: page_7_img_7_small.png
+2024-12-11 15:24:20,033 - lib.extractpdf - INFO - Page 7, Image 8: xref: 464
+2024-12-11 15:24:20,034 - lib.extractpdf - INFO - - PDF size: 30.661651611328125x30.661666870117188
+2024-12-11 15:24:20,034 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:24:20,040 - lib.extractpdf - INFO - Saved expanded high resolution image: page_7_img_8_small.png
+2024-12-11 15:24:20,768 - lib.bedrock - INFO - Starting extract_text_from_image_using_bedrock function
+2024-12-11 15:24:20,768 - lib.bedrock - INFO - Creating Bedrock runtime client
+2024-12-11 15:24:20,778 - botocore.credentials - INFO - Found credentials from IAM Role: ec2admin
+2024-12-11 15:24:20,832 - lib.bedrock - INFO - Reading image file: ./images_mu/page_0_main.png
+2024-12-11 15:24:20,833 - lib.bedrock - INFO - Image successfully encoded to base64
+2024-12-11 15:24:20,834 - lib.bedrock - INFO - Creating prompt
+2024-12-11 15:24:20,834 - lib.bedrock - INFO - Preparing request body
+2024-12-11 15:24:20,834 - lib.bedrock - INFO - Request body prepared
+2024-12-11 15:24:20,834 - lib.bedrock - INFO - Invoking model
+2024-12-11 15:24:47,105 - lib.extractpdf - INFO - Main extracted text: RoboCLIP:
+One Demonstration is Enough to Learn Robot Policies
+
+Sumedh A Sontakke1*, Jesse Zhang1, Sébastien M. R. Arnold3,
+Karl Pertsch2,3, Erdem Biyik1,2, Dorsa Sadigh3, Chelsea Finn3, and Laurent Itti1
+
+1Thomas Lord Department of Computer Science, University of Southern California
+2University of California, Berkeley
+3Stanford University
+4Google Research
+
+Abstract
+
+Reward specification is a notoriously difficult problem in reinforcement learning, requiring extensive expert supervision to design robust reward functions. Imitation learning (IL) methods attempt to circumvent these problems by utilizing expert demonstrations but typically require a large number of in-domain expert demonstrations. Inspired by advances in the field of Video-and-Language Models (VLMs), we present RoboCLIP, an online imitation learning method that uses a single demonstration (overcoming the large data requirement) in the form of a video demonstration or a textual description of the task to generate rewards without manual reward function design. Additionally, RoboCLIP can also utilize out-of-domain demonstrations, like videos of humans solving the task for reward generation, circumventing the need to have the same demonstration and deployment domains. RoboCLIP utilizes pretrained VLMs without any finetuning for reward generation. Reinforcement learning agents trained with RoboCLIP rewards demonstrate 2-3 times higher zero-shot performance than competing imitation learning methods on downstream robot manipulation tasks, doing so using only one video/text demonstration. Visit our website for experiment videos.
+
+1 Introduction
+
+Sequential decision-making problems typically require significant human supervision and data. In the context of online reinforcement learning [Sutton and Barto, 2018], this manifests in the design of good reward functions that map transitions to scalar rewards [Amodei et al., 2016, Hadfield-Menell et al., 2017]. Extant approaches to manual reward function definition are not very principled and defining rewards for complex long-horizon problems is often an art requiring significant human expertise. Additionally, evaluating reward functions often requires knowledge of the true state of the environment. For example, imagine a simple scenario where the agent must learn to lift an object off the ground. Here, a reward useful for task success would be proportional to the height of the object from the ground — a quantity non-trivial to obtain without full state information. Thus, significant effort has been expounded in developing methods that can learn reward functions either explicitly or implicitly from demonstrations, i.e., imitation learning [Pomerleau, 1988, Ng and Russell, 2000, Abbeel and Ng, 2004, Ziebart et al., 2008]. With these methods, agent policies can either be directly extracted from the demonstrations or trained to optimize rewards functions learned from them.
+
+Imitation learning (IL), however, only somewhat alleviates the need for expert human intervention. First, instead of designing complex reward functions, expert supervision is needed to collect massive
+
+*corresponding author: ssontakk@usc.edu
+
+37th Conference on Neural Information Processing Systems (NeurIPS 2023).
+2024-12-11 15:24:47,211 - lib.bedrock - INFO - Starting extract_text_from_image_using_bedrock function
+2024-12-11 15:24:47,211 - lib.bedrock - INFO - Creating Bedrock runtime client
+2024-12-11 15:24:47,220 - lib.bedrock - INFO - Reading image file: ./images_mu/page_1_main.png
+2024-12-11 15:24:47,221 - lib.bedrock - INFO - Image successfully encoded to base64
+2024-12-11 15:24:47,221 - lib.bedrock - INFO - Creating prompt
+2024-12-11 15:24:47,221 - lib.bedrock - INFO - Preparing request body
+2024-12-11 15:24:47,221 - lib.bedrock - INFO - Request body prepared
+2024-12-11 15:24:47,221 - lib.bedrock - INFO - Invoking model

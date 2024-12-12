@@ -1,0 +1,309 @@
+2024-12-11 15:41:25,488 - lib.extractpdf - INFO - Page 1, Image 0: xref: 196
+2024-12-11 15:41:25,492 - lib.extractpdf - INFO - - PDF size: 41.981109619140625x26.423171997070312
+2024-12-11 15:41:25,493 - lib.extractpdf - INFO - - Actual image size: 206x130
+2024-12-11 15:41:25,509 - lib.extractpdf - INFO - Saved expanded high resolution image: page_1_img_0_small.png
+2024-12-11 15:41:25,509 - lib.extractpdf - INFO - Page 1, Image 1: xref: 197
+2024-12-11 15:41:25,509 - lib.extractpdf - INFO - - PDF size: 41.981109619140625x26.423171997070312
+2024-12-11 15:41:25,510 - lib.extractpdf - INFO - - Actual image size: 206x130
+2024-12-11 15:41:25,520 - lib.extractpdf - INFO - Saved expanded high resolution image: page_1_img_1_small.png
+2024-12-11 15:41:25,520 - lib.extractpdf - INFO - Page 1, Image 2: xref: 198
+2024-12-11 15:41:25,520 - lib.extractpdf - INFO - - PDF size: 41.981109619140625x26.423171997070312
+2024-12-11 15:41:25,520 - lib.extractpdf - INFO - - Actual image size: 206x130
+2024-12-11 15:41:25,528 - lib.extractpdf - INFO - Saved expanded high resolution image: page_1_img_2_small.png
+2024-12-11 15:41:25,528 - lib.extractpdf - INFO - Page 1, Image 3: xref: 199
+2024-12-11 15:41:25,528 - lib.extractpdf - INFO - - PDF size: 41.981109619140625x26.423171997070312
+2024-12-11 15:41:25,529 - lib.extractpdf - INFO - - Actual image size: 206x130
+2024-12-11 15:41:25,536 - lib.extractpdf - INFO - Saved expanded high resolution image: page_1_img_3_small.png
+2024-12-11 15:41:25,994 - lib.extractpdf - INFO - Page 4, Image 0: xref: 335
+2024-12-11 15:41:26,025 - lib.extractpdf - INFO - - PDF size: 199.59738159179688x149.73590087890625
+2024-12-11 15:41:26,025 - lib.extractpdf - INFO - - Actual image size: 640x480
+2024-12-11 15:41:26,050 - lib.extractpdf - INFO - Saved expanded high resolution image: page_4_img_0_small.png
+2024-12-11 15:41:26,050 - lib.extractpdf - INFO - Page 4, Image 1: xref: 336
+2024-12-11 15:41:26,051 - lib.extractpdf - INFO - - PDF size: 43.4591064453125x28.593994140625
+2024-12-11 15:41:26,051 - lib.extractpdf - INFO - - Actual image size: 408x268
+2024-12-11 15:41:26,063 - lib.extractpdf - INFO - Saved expanded high resolution image: page_4_img_1_small.png
+2024-12-11 15:41:26,063 - lib.extractpdf - INFO - Page 4, Image 2: xref: 337
+2024-12-11 15:41:26,064 - lib.extractpdf - INFO - - PDF size: 43.4591064453125x29.256805419921875
+2024-12-11 15:41:26,064 - lib.extractpdf - INFO - - Actual image size: 404x272
+2024-12-11 15:41:26,073 - lib.extractpdf - INFO - Saved expanded high resolution image: page_4_img_2_small.png
+2024-12-11 15:41:26,073 - lib.extractpdf - INFO - Page 4, Image 3: xref: 338
+2024-12-11 15:41:26,075 - lib.extractpdf - INFO - - PDF size: 42.038909912109375x26.7950439453125
+2024-12-11 15:41:26,075 - lib.extractpdf - INFO - - Actual image size: 584x372
+2024-12-11 15:41:26,081 - lib.extractpdf - INFO - Saved expanded high resolution image: page_4_img_3_small.png
+2024-12-11 15:41:26,081 - lib.extractpdf - INFO - Page 4, Image 4: xref: 339
+2024-12-11 15:41:26,085 - lib.extractpdf - INFO - - PDF size: 42.322967529296875x28.4046630859375
+2024-12-11 15:41:26,085 - lib.extractpdf - INFO - - Actual image size: 234x205
+2024-12-11 15:41:26,092 - lib.extractpdf - INFO - Saved expanded high resolution image: page_4_img_4_small.png
+2024-12-11 15:41:26,471 - lib.extractpdf - INFO - Page 6, Image 0: xref: 394
+2024-12-11 15:41:26,485 - lib.extractpdf - INFO - - PDF size: 65.02176666259766x65.02175903320312
+2024-12-11 15:41:26,485 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:26,500 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_0_small.png
+2024-12-11 15:41:26,501 - lib.extractpdf - INFO - Page 6, Image 1: xref: 403
+2024-12-11 15:41:26,501 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:41:26,501 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:26,519 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_1_small.png
+2024-12-11 15:41:26,519 - lib.extractpdf - INFO - Page 6, Image 2: xref: 404
+2024-12-11 15:41:26,520 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:41:26,520 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:26,535 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_2_small.png
+2024-12-11 15:41:26,535 - lib.extractpdf - INFO - Page 6, Image 3: xref: 405
+2024-12-11 15:41:26,536 - lib.extractpdf - INFO - - PDF size: 65.02176666259766x65.02175903320312
+2024-12-11 15:41:26,536 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:26,550 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_3_small.png
+2024-12-11 15:41:26,550 - lib.extractpdf - INFO - Page 6, Image 4: xref: 406
+2024-12-11 15:41:26,551 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:41:26,551 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:26,568 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_4_small.png
+2024-12-11 15:41:26,569 - lib.extractpdf - INFO - Page 6, Image 5: xref: 407
+2024-12-11 15:41:26,569 - lib.extractpdf - INFO - - PDF size: 65.02174377441406x65.02175903320312
+2024-12-11 15:41:26,569 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:26,588 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_5_small.png
+2024-12-11 15:41:26,588 - lib.extractpdf - INFO - Page 6, Image 6: xref: 408
+2024-12-11 15:41:26,589 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:41:26,589 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:26,607 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_6_small.png
+2024-12-11 15:41:26,607 - lib.extractpdf - INFO - Page 6, Image 7: xref: 409
+2024-12-11 15:41:26,607 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:41:26,608 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:26,625 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_7_small.png
+2024-12-11 15:41:26,625 - lib.extractpdf - INFO - Page 6, Image 8: xref: 410
+2024-12-11 15:41:26,626 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:41:26,626 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:26,641 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_8_small.png
+2024-12-11 15:41:26,641 - lib.extractpdf - INFO - Page 6, Image 9: xref: 411
+2024-12-11 15:41:26,642 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:41:26,642 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:26,655 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_9_small.png
+2024-12-11 15:41:26,655 - lib.extractpdf - INFO - Page 6, Image 10: xref: 412
+2024-12-11 15:41:26,656 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:41:26,656 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:26,668 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_10_small.png
+2024-12-11 15:41:26,668 - lib.extractpdf - INFO - Page 6, Image 11: xref: 395
+2024-12-11 15:41:26,669 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:41:26,669 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:26,686 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_11_small.png
+2024-12-11 15:41:26,686 - lib.extractpdf - INFO - Page 6, Image 12: xref: 413
+2024-12-11 15:41:26,687 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:41:26,687 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:26,699 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_12_small.png
+2024-12-11 15:41:26,699 - lib.extractpdf - INFO - Page 6, Image 13: xref: 414
+2024-12-11 15:41:26,700 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:41:26,700 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:26,712 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_13_small.png
+2024-12-11 15:41:26,712 - lib.extractpdf - INFO - Page 6, Image 14: xref: 415
+2024-12-11 15:41:26,713 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:41:26,713 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:26,726 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_14_small.png
+2024-12-11 15:41:26,727 - lib.extractpdf - INFO - Page 6, Image 15: xref: 416
+2024-12-11 15:41:26,727 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:41:26,727 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:26,739 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_15_small.png
+2024-12-11 15:41:26,739 - lib.extractpdf - INFO - Page 6, Image 16: xref: 396
+2024-12-11 15:41:26,740 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:41:26,740 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:26,758 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_16_small.png
+2024-12-11 15:41:26,758 - lib.extractpdf - INFO - Page 6, Image 17: xref: 397
+2024-12-11 15:41:26,759 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:41:26,759 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:26,775 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_17_small.png
+2024-12-11 15:41:26,775 - lib.extractpdf - INFO - Page 6, Image 18: xref: 398
+2024-12-11 15:41:26,776 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:41:26,776 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:26,793 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_18_small.png
+2024-12-11 15:41:26,793 - lib.extractpdf - INFO - Page 6, Image 19: xref: 399
+2024-12-11 15:41:26,794 - lib.extractpdf - INFO - - PDF size: 65.02176666259766x65.02175903320312
+2024-12-11 15:41:26,794 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:26,809 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_19_small.png
+2024-12-11 15:41:26,809 - lib.extractpdf - INFO - Page 6, Image 20: xref: 400
+2024-12-11 15:41:26,810 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:41:26,810 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:26,827 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_20_small.png
+2024-12-11 15:41:26,827 - lib.extractpdf - INFO - Page 6, Image 21: xref: 401
+2024-12-11 15:41:26,828 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:41:26,828 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:26,845 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_21_small.png
+2024-12-11 15:41:26,845 - lib.extractpdf - INFO - Page 6, Image 22: xref: 402
+2024-12-11 15:41:26,846 - lib.extractpdf - INFO - - PDF size: 65.02175903320312x65.02175903320312
+2024-12-11 15:41:26,846 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:26,863 - lib.extractpdf - INFO - Saved expanded high resolution image: page_6_img_22_small.png
+2024-12-11 15:41:27,009 - lib.extractpdf - INFO - Page 7, Image 0: xref: 456
+2024-12-11 15:41:27,026 - lib.extractpdf - INFO - - PDF size: 30.661666870117188x30.661666870117188
+2024-12-11 15:41:27,027 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:27,036 - lib.extractpdf - INFO - Saved expanded high resolution image: page_7_img_0_small.png
+2024-12-11 15:41:27,036 - lib.extractpdf - INFO - Page 7, Image 1: xref: 457
+2024-12-11 15:41:27,037 - lib.extractpdf - INFO - - PDF size: 30.661666870117188x30.661666870117188
+2024-12-11 15:41:27,037 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:27,044 - lib.extractpdf - INFO - Saved expanded high resolution image: page_7_img_1_small.png
+2024-12-11 15:41:27,044 - lib.extractpdf - INFO - Page 7, Image 2: xref: 458
+2024-12-11 15:41:27,045 - lib.extractpdf - INFO - - PDF size: 30.583023071289062x30.661666870117188
+2024-12-11 15:41:27,045 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:27,051 - lib.extractpdf - INFO - Saved expanded high resolution image: page_7_img_2_small.png
+2024-12-11 15:41:27,051 - lib.extractpdf - INFO - Page 7, Image 3: xref: 459
+2024-12-11 15:41:27,052 - lib.extractpdf - INFO - - PDF size: 30.66168212890625x30.583038330078125
+2024-12-11 15:41:27,052 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:27,059 - lib.extractpdf - INFO - Saved expanded high resolution image: page_7_img_3_small.png
+2024-12-11 15:41:27,059 - lib.extractpdf - INFO - Page 7, Image 4: xref: 460
+2024-12-11 15:41:27,060 - lib.extractpdf - INFO - - PDF size: 30.583038330078125x30.583038330078125
+2024-12-11 15:41:27,060 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:27,068 - lib.extractpdf - INFO - Saved expanded high resolution image: page_7_img_4_small.png
+2024-12-11 15:41:27,068 - lib.extractpdf - INFO - Page 7, Image 5: xref: 461
+2024-12-11 15:41:27,069 - lib.extractpdf - INFO - - PDF size: 30.5830078125x30.583038330078125
+2024-12-11 15:41:27,069 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:27,075 - lib.extractpdf - INFO - Saved expanded high resolution image: page_7_img_5_small.png
+2024-12-11 15:41:27,075 - lib.extractpdf - INFO - Page 7, Image 6: xref: 462
+2024-12-11 15:41:27,076 - lib.extractpdf - INFO - - PDF size: 30.661651611328125x30.661666870117188
+2024-12-11 15:41:27,076 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:27,082 - lib.extractpdf - INFO - Saved expanded high resolution image: page_7_img_6_small.png
+2024-12-11 15:41:27,082 - lib.extractpdf - INFO - Page 7, Image 7: xref: 463
+2024-12-11 15:41:27,082 - lib.extractpdf - INFO - - PDF size: 30.661651611328125x30.661666870117188
+2024-12-11 15:41:27,083 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:27,089 - lib.extractpdf - INFO - Saved expanded high resolution image: page_7_img_7_small.png
+2024-12-11 15:41:27,089 - lib.extractpdf - INFO - Page 7, Image 8: xref: 464
+2024-12-11 15:41:27,090 - lib.extractpdf - INFO - - PDF size: 30.661651611328125x30.661666870117188
+2024-12-11 15:41:27,090 - lib.extractpdf - INFO - - Actual image size: 250x250
+2024-12-11 15:41:27,096 - lib.extractpdf - INFO - Saved expanded high resolution image: page_7_img_8_small.png
+2024-12-11 15:41:27,837 - lib.bedrock - INFO - Starting extract_text_from_image_using_bedrock function
+2024-12-11 15:41:27,838 - lib.bedrock - INFO - Creating Bedrock runtime client
+2024-12-11 15:41:27,846 - botocore.credentials - INFO - Found credentials from IAM Role: ec2admin
+2024-12-11 15:41:27,896 - lib.bedrock - INFO - Reading image file: ./images_mu/page_0_main.png
+2024-12-11 15:41:27,897 - lib.bedrock - INFO - Image successfully encoded to base64
+2024-12-11 15:41:27,898 - lib.bedrock - INFO - Creating prompt
+2024-12-11 15:41:27,898 - lib.bedrock - INFO - Preparing request body
+2024-12-11 15:41:27,898 - lib.bedrock - INFO - Request body prepared
+2024-12-11 15:41:27,898 - lib.bedrock - INFO - Invoking model
+2024-12-11 15:42:23,424 - lib.extractpdf - INFO - Main extracted text: RoboCLIP: One Demonstration is Enough to Learn Robot Policies
+
+Sumedh A Sontakke1*, Jesse Zhang1, Sebastien M. R. Arnold3*, 
+Karl Pertsch2,3, Erdem Bıyık1,2, Dorsa Sadigh3, Chelsea Finn3, and Laurent Itti1
+
+1Thomas Lord Department of Computer Science, University of Southern California
+2University of California, Berkeley
+3Stanford University
+4Google Research
+
+Abstract
+
+Reward specification is a notoriously difficult problem in reinforcement learning, requiring extensive expert supervision to design robust reward functions. Imitation learning (IL) methods attempt to circumvent these problems by utilizing expert demonstrations but typically require a large number of in-domain expert demonstrations. Inspired by advances in the field of Video-and-Language Models (VLMs), we present RoboCLIP, an online imitation learning method that uses a single demonstration (overcoming the large data requirement) in the form of a video demonstration or a textual description of the task to generate rewards without manual reward function design. Additionally, RoboCLIP can also utilize out-of-domain demonstrations, like videos of humans solving the task for reward generation, circumventing the need to have the same demonstration and deployment domains. RoboCLIP utilizes pretrained VLMs without any finetuning for reward generation. Reinforcement learning agents trained with RoboCLIP rewards demonstrate 2-3 times higher zero-shot performance than competing imitation learning methods on downstream robot manipulation tasks, doing so using only one video/text demonstration. Visit our website for experiment videos.
+
+1   Introduction
+
+Sequential decision-making problems typically require significant human supervision and data. In the context of online reinforcement learning [Sutton and Barto, 2018], this manifests in the design of good reward functions that map transitions to scalar rewards [Amodei et al., 2016; Hadfield-Menell et al., 2017]. Extant approaches to manual reward function definition are not very principled and defining rewards for complex long-horizon problems is often an art requiring significant human expertise. Additionally, evaluating reward functions often requires knowledge of the true state of the environment. For example, imagine a simple scenario where the agent must learn to lift an object off the ground. Here, a reward useful for task success would be proportional to the height of the object from the ground — a quantity non-trivial to obtain without full state information. Thus, significant effort has been expended in developing methods that can learn reward functions either explicitly or implicitly from demonstrations, i.e., imitation learning [Pomerleau, 1988; Ng and Russell, 2000; Abbeel and Ng, 2004; Ziebart et al., 2008]. With these methods, agent policies can either be directly extracted from the demonstrations or trained to optimize rewards functions learned from them.
+
+Imitation learning (IL), however, only somewhat alleviates the need for expert human intervention. First, instead of designing complex reward functions, expert supervision is needed to collect massive 
+
+* corresponding author: ssontakk@usc.edu
+
+37th Conference on Neural Information Processing Systems (NeurIPS 2023).
+2024-12-11 15:42:23,531 - lib.bedrock - INFO - Starting extract_text_from_image_using_bedrock function
+2024-12-11 15:42:23,531 - lib.bedrock - INFO - Creating Bedrock runtime client
+2024-12-11 15:42:23,541 - lib.bedrock - INFO - Reading image file: ./images_mu/page_1_main.png
+2024-12-11 15:42:23,544 - lib.bedrock - INFO - Image successfully encoded to base64
+2024-12-11 15:42:23,544 - lib.bedrock - INFO - Creating prompt
+2024-12-11 15:42:23,544 - lib.bedrock - INFO - Preparing request body
+2024-12-11 15:42:23,544 - lib.bedrock - INFO - Request body prepared
+2024-12-11 15:42:23,544 - lib.bedrock - INFO - Invoking model
+2024-12-11 15:44:24,255 - lib.extractpdf - INFO - Main extracted text: Environment, 𝜙_t, Every timestep, 𝑎_t, "End of the episode", S3D-v, r_t, Similarity, z_t, S3D, "Robot grasping drawer", Task Descriptor (video or text)
+
+Figure 1: RoboCLIP Overview. A Pretrained Video-and-Language Model is used to generate rewards via the similarity score between the encoding of an episode of interaction of an agent in its environment, z_t with the encoding of a task specifier z_t such as a textual description of the task or a video demonstrating a successful trajectory. The similarity score between the latent vectors is provided as reward to the agent.
+
+datasets such as RF-1 [Brohm et al., 2022], Bridge Dataset [Ebert et al., 2021], D4RL [Fu et al., 2020], or Robotet [Dasari et al., 2019]. The performance of imitation learning algorithms and their ability to generalize hinges on the coverage and size of data [Kumar et al., 2019, 2022], making the collection of large datasets imperative. Second and most importantly, the interface for collecting demonstrations for IL is tedious, requiring expert robot operators to collect thousands of demonstrations. On the contrary, a more intuitive way to define rewards would be in the form of a textual description (e.g., "robot grasping object"), or in the form of a naturalistic video demonstration of the task performed by a human actor in an environment separate from the robotic environment. For example, demonstrating to a robot how to open a cabinet door in one's own kitchen is more naturalistic than collecting many thousands of trajectories via teleoperation in the target robotic environment.
+
+Thus, there exists an unmet need for IL algorithms that 1) require very few demonstrations and 2) allow for a natural interface for providing these demonstrations. For instance, algorithms that can effectively learn from language instructions or human demonstrations without the need for full environment state information. Our key insight is that by leveraging Video-and-Language Models (VLMs)—which are already pretrained on large amount of video demonstration and language pairs— we do not need to rely on large-scale and in-domain datasets. Instead, by harnessing the power of VLM embeddings, we treat the mismatch between a single instruction's embedding (provided as a language command or a video demonstration) and the embedding of the video of the current policy's rollout as a proxy reward that will guide the policy towards the desired instruction.
+
+To this end, we present RoboCLIP, an imitation learning algorithm that learns and optimizes a reward function based on a single language or video demonstration. The backbone model used in RoboCLIP is S3D [Xie et al., 2018] trained on the HowTo100M dataset [Miech et al., 2019], which consists of short clips of humans performing activities with textual descriptions of the activities. These videos typically consist of a variety of camera angles, actors, lighting conditions, and backgrounds. We hypothesize that VLMs trained on such diverse videos are invariant to these extraneous factors and generate an actor-agnostic semantically-meaningful representation for a video, allowing them to generalize to unseen robotic environments.
+
+We present an overview of RoboCLIP in Figure 1. RoboCLIP computes a similarity score between videos of online agent experience with a task descriptor, i.e., a text description of the task or a single human demonstration video, to generate trajectory-level rewards to train the agent. We evaluate RoboCLIP on the MetaWorld Environment suite [Yu et al., 2020] and on the Frank Kitchen Environment [Gupta et al., 2019], and find that policies obtained by pretraining on the RoboCLIP reward result in 2 - 3× higher zero-shot task success in comparison to state-of-the-art imitation learning baselines. Additionally, these rewards require no experts for specification and can be generated using naturalistic definitions like natural language task descriptions and human demonstrations.
+
+2  Related Work
+
+Learning from Human Feedback. Learning from demonstrations is a long-studied problem that attempts to learn a policy from a dataset of expert demonstrations. Imitation learning (IL) methods, such as those based on behavioral cloning [Pomerleau, 1988], formulate the problem as a supervised learning over state-action pairs and typically rely on large datasets of expert-collected trajectories directly demonstrating how to perform the target task [Brohm et al., 2022; Lynch et al., 2022].
+2024-12-11 15:44:24,256 - lib.extractpdf - INFO - Page 1, Image 0: xref: 196
+2024-12-11 15:44:24,262 - lib.extractpdf - INFO - - PDF size: 41.981109619140625x26.423171997070312
+2024-12-11 15:44:24,263 - lib.extractpdf - INFO - - Actual image size: 206x130
+2024-12-11 15:44:24,272 - lib.extractpdf - INFO - Saved expanded high resolution image: page_1_img_0_small.png
+2024-12-11 15:44:24,272 - lib.bedrock - INFO - Starting extract_structured_text_from_image_using_bedrock function
+2024-12-11 15:44:24,272 - lib.bedrock - INFO - Creating Bedrock runtime client
+2024-12-11 15:44:24,298 - lib.bedrock - INFO - Reading image file: ./images_mu/page_1_main.png
+2024-12-11 15:44:24,300 - lib.bedrock - INFO - ./images_mu/page_1_main.png successfully encoded to base64
+2024-12-11 15:44:24,300 - lib.bedrock - INFO - Reading image file: ./images_mu/page_1_img_0_small.png
+2024-12-11 15:44:24,300 - lib.bedrock - INFO - ./images_mu/page_1_img_0_small.png successfully encoded to base64
+2024-12-11 15:44:24,300 - lib.bedrock - INFO - Creating prompt
+2024-12-11 15:44:24,300 - lib.bedrock - INFO - Preparing request body
+2024-12-11 15:44:24,300 - lib.bedrock - INFO - Request body prepared
+2024-12-11 15:44:24,300 - lib.bedrock - INFO - Invoking model
+2024-12-11 15:44:32,077 - lib.bedrock - INFO - Extracted text: 제목>RoboCLIP Overview>Task Descriptor>Robot grasping drawer (video or text)
+<sameimage>false</sameimage>
+
+두번째 이미지는 첫번째 이미지의 'Task Descriptor' 섹션에 있는 것으로 보입니다. 이 이미지는 로봇이 서랍을 열고 있는 모습을 보여주고 있으며, 비디오 또는 텍스트 형식의 작업 설명을 나타내는 것 같습니다. 첫번째 이미지에서 'Task Descriptor'라고 명시되어 있습니다.
+2024-12-11 15:44:32,079 - lib.extractpdf - INFO - Is same image: False
+2024-12-11 15:44:32,079 - lib.extractpdf - INFO - Sub extracted text: 제목>RoboCLIP Overview>Task Descriptor>Robot grasping drawer (video or text)
+2024-12-11 15:44:32,079 - lib.extractpdf - INFO - Page 1, Image 1: xref: 197
+2024-12-11 15:44:32,080 - lib.extractpdf - INFO - - PDF size: 41.981109619140625x26.423171997070312
+2024-12-11 15:44:32,080 - lib.extractpdf - INFO - - Actual image size: 206x130
+2024-12-11 15:44:32,087 - lib.extractpdf - INFO - Saved expanded high resolution image: page_1_img_1_small.png
+2024-12-11 15:44:32,087 - lib.bedrock - INFO - Starting extract_structured_text_from_image_using_bedrock function
+2024-12-11 15:44:32,088 - lib.bedrock - INFO - Creating Bedrock runtime client
+2024-12-11 15:44:32,091 - lib.bedrock - INFO - Reading image file: ./images_mu/page_1_main.png
+2024-12-11 15:44:32,092 - lib.bedrock - INFO - ./images_mu/page_1_main.png successfully encoded to base64
+2024-12-11 15:44:32,092 - lib.bedrock - INFO - Reading image file: ./images_mu/page_1_img_1_small.png
+2024-12-11 15:44:32,092 - lib.bedrock - INFO - ./images_mu/page_1_img_1_small.png successfully encoded to base64
+2024-12-11 15:44:32,092 - lib.bedrock - INFO - Creating prompt
+2024-12-11 15:44:32,092 - lib.bedrock - INFO - Preparing request body
+2024-12-11 15:44:32,092 - lib.bedrock - INFO - Request body prepared
+2024-12-11 15:44:32,092 - lib.bedrock - INFO - Invoking model
+2024-12-11 15:44:45,189 - lib.bedrock - INFO - Extracted text: 제목>RoboCLIP Overview>Task Descriptor>Video or Text
+<sameimage>false</sameimage>
+
+두번째 이미지는 첫번째 이미지의 우측 하단에 위치한 "Task Descriptor (video or text)" 섹션을 구체적으로 보여주고 있습니다. 이는 환경과 에이전트의 상호작용 에피소드 인코딩 또는 성공적인 궤적을 보여주는 비디오나 텍스트 등의 태스크 설명자를 의미합니다. 두 이미지는 해상도가 다르며, 두번째 이미지는 첫번째 이미지의 특정 부분을 자세히 설명하고 있습니다.
+2024-12-11 15:44:45,191 - lib.extractpdf - INFO - Is same image: False
+2024-12-11 15:44:45,191 - lib.extractpdf - INFO - Sub extracted text: 제목>RoboCLIP Overview>Task Descriptor>Video or Text
+2024-12-11 15:44:45,191 - lib.extractpdf - INFO - Page 1, Image 2: xref: 198
+2024-12-11 15:44:45,192 - lib.extractpdf - INFO - - PDF size: 41.981109619140625x26.423171997070312
+2024-12-11 15:44:45,192 - lib.extractpdf - INFO - - Actual image size: 206x130
+2024-12-11 15:44:45,199 - lib.extractpdf - INFO - Saved expanded high resolution image: page_1_img_2_small.png
+2024-12-11 15:44:45,199 - lib.bedrock - INFO - Starting extract_structured_text_from_image_using_bedrock function
+2024-12-11 15:44:45,199 - lib.bedrock - INFO - Creating Bedrock runtime client
+2024-12-11 15:44:45,202 - lib.bedrock - INFO - Reading image file: ./images_mu/page_1_main.png
+2024-12-11 15:44:45,203 - lib.bedrock - INFO - ./images_mu/page_1_main.png successfully encoded to base64
+2024-12-11 15:44:45,204 - lib.bedrock - INFO - Reading image file: ./images_mu/page_1_img_2_small.png
+2024-12-11 15:44:45,204 - lib.bedrock - INFO - ./images_mu/page_1_img_2_small.png successfully encoded to base64
+2024-12-11 15:44:45,204 - lib.bedrock - INFO - Creating prompt
+2024-12-11 15:44:45,204 - lib.bedrock - INFO - Preparing request body
+2024-12-11 15:44:45,204 - lib.bedrock - INFO - Request body prepared
+2024-12-11 15:44:45,204 - lib.bedrock - INFO - Invoking model
+2024-12-11 15:44:51,661 - lib.bedrock - INFO - Extracted text: 제목>RoboCLIP Overview>Task Descriptor (video or text)>"Robot grasping drawer"
+<sameimage>false</sameimage>
+
+두번째 이미지는 첫번째 이미지의 우측 하단에 있는 "Task Descriptor (video or text)" 박스 안의 내용을 보여주는 것 같습니다. 이 이미지는 로봇이 서랍을 잡는 모습을 묘사하고 있으며, 이는 RoboCLIP 시스템에서 언어 지시문이나 동영상 데모를 통해 로봇에게 제공되는 작업 설명 역할을 하는 것으로 보입니다.
+2024-12-11 15:44:51,662 - lib.extractpdf - INFO - Is same image: False
+2024-12-11 15:44:51,663 - lib.extractpdf - INFO - Sub extracted text: 제목>RoboCLIP Overview>Task Descriptor (video or text)>"Robot grasping drawer"
+2024-12-11 15:44:51,663 - lib.extractpdf - INFO - Page 1, Image 3: xref: 199
+2024-12-11 15:44:51,663 - lib.extractpdf - INFO - - PDF size: 41.981109619140625x26.423171997070312
+2024-12-11 15:44:51,663 - lib.extractpdf - INFO - - Actual image size: 206x130
+2024-12-11 15:44:51,671 - lib.extractpdf - INFO - Saved expanded high resolution image: page_1_img_3_small.png
+2024-12-11 15:44:51,671 - lib.bedrock - INFO - Starting extract_structured_text_from_image_using_bedrock function
+2024-12-11 15:44:51,671 - lib.bedrock - INFO - Creating Bedrock runtime client
+2024-12-11 15:44:51,674 - lib.bedrock - INFO - Reading image file: ./images_mu/page_1_main.png
+2024-12-11 15:44:51,675 - lib.bedrock - INFO - ./images_mu/page_1_main.png successfully encoded to base64
+2024-12-11 15:44:51,675 - lib.bedrock - INFO - Reading image file: ./images_mu/page_1_img_3_small.png
+2024-12-11 15:44:51,675 - lib.bedrock - INFO - ./images_mu/page_1_img_3_small.png successfully encoded to base64
+2024-12-11 15:44:51,675 - lib.bedrock - INFO - Creating prompt
+2024-12-11 15:44:51,676 - lib.bedrock - INFO - Preparing request body
+2024-12-11 15:44:51,676 - lib.bedrock - INFO - Request body prepared
+2024-12-11 15:44:51,676 - lib.bedrock - INFO - Invoking model
+2024-12-11 15:44:58,026 - lib.bedrock - INFO - Extracted text: 제목>RoboCLIP 개요>Figure 1>설명: "로봇 그리퍼 드로어"
+Task Descriptor (비디오 또는 텍스트)
+<sameimage>false</sameimage>
+
+두번째 이미지는 첫번째 이미지의 일부로, 전체 RoboCLIP 프레임워크의 "Task Descriptor" 구성 요소를 나타냅니다. 이는 비디오나 텍스트 형식의 작업 설명을 제공하는 역할을 합니다. 첫번째 이미지에서 이 부분은 "Task Descriptor (video or text)"라고 표기되어 있습니다.
+2024-12-11 15:44:58,028 - lib.extractpdf - INFO - Is same image: False
+2024-12-11 15:44:58,028 - lib.extractpdf - INFO - Sub extracted text: 제목>RoboCLIP 개요>Figure 1>설명: "로봇 그리퍼 드로어"
+Task Descriptor (비디오 또는 텍스트)
+2024-12-11 15:44:58,124 - lib.bedrock - INFO - Starting extract_text_from_image_using_bedrock function
+2024-12-11 15:44:58,125 - lib.bedrock - INFO - Creating Bedrock runtime client
+2024-12-11 15:44:58,128 - lib.bedrock - INFO - Reading image file: ./images_mu/page_2_main.png
+2024-12-11 15:44:58,129 - lib.bedrock - INFO - Image successfully encoded to base64
+2024-12-11 15:44:58,129 - lib.bedrock - INFO - Creating prompt
+2024-12-11 15:44:58,129 - lib.bedrock - INFO - Preparing request body
+2024-12-11 15:44:58,129 - lib.bedrock - INFO - Request body prepared
+2024-12-11 15:44:58,129 - lib.bedrock - INFO - Invoking model

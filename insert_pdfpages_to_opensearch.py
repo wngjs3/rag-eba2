@@ -17,15 +17,13 @@ logger = logging.getLogger(__name__)
 
 def preprocessing():
     # Extract images and metadata
-    pdffile = "./pdf/bedrock.pdf"
+    pdffile = "./pdf/dummy.pdf"
     savedir = "./images_mu"
     extractpdf.extract_images_and_metadata(pdffile, savedir)
 
-    # Create a Bedrock session for Claude 3.5 Sonnet model
+    # Create a Bedrock session using default credentials
     bedrock_session = bedrock.get_bedrock_session(
-        os.getenv("AWS_ACCESS_KEY_ID"),
-        os.getenv("AWS_SECRET_ACCESS_KEY"),
-        os.getenv("AWS_REGION")
+        region_name=os.getenv("AWS_REGION", "ap-northeast-2")
     )
 
     # Get the model ID for Claude 3.5 Sonnet
@@ -41,15 +39,13 @@ def insert_to_opensearch():
 
     # Create a Bedrock session for the default AWS credentials
     bedrock_session = bedrock.get_bedrock_session(
-        os.getenv("AWS_ACCESS_KEY_ID"),
-        os.getenv("AWS_SECRET_ACCESS_KEY"),
-        os.getenv("AWS_REGION")
+        region_name=os.getenv("AWS_REGION", "ap-northeast-2")
     )
 
     # Insert the extracted metadata into OpenSearch
     metadata_file = savedir + "/metadata.json"
     opensearch.insert_metadata_to_opensearch(
-        metadata_file, bedrock_session, os.getenv("OPENSEARCH_ENDPOINT"), os.getenv("OPENSEARCH_INDEX_NAME"), os.getenv("OPENSEARCH_USERNAME"), os.getenv("OPENSEARCH_PASSWORD"))
+        metadata_file, bedrock_session, os.getenv("OPENSEARCH_ENDPOINT"), os.getenv("OPENSEARCH_INDEX_NAME"))
 
 preprocessing()
 insert_to_opensearch()

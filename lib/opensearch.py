@@ -3,6 +3,10 @@ import json
 import requests
 from requests.auth import HTTPBasicAuth
 import logging
+import boto3
+from requests_aws4auth import AWS4Auth
+from opensearchpy import OpenSearch, RequestsHttpConnection
+import time
 
 import lib.bedrock as bedrock
 import lib.logging_config as logging_config
@@ -12,9 +16,38 @@ logger = logging.getLogger(__name__)
 
 def insert_metadata_to_opensearch(metadata_file, bedrock_session,
                                   opensearch_endpoint, index_name,
-                                  username, password):
+                                  region='ap-northeast-2'):
+    """
+    OpenSearch Serverless에 메타데이터를 삽입하는 함수
+    """
     with open(metadata_file, 'r', encoding='utf-8') as f:
         metadatas = json.load(f)
+
+    # AWS 인증 설정
+    credentials = boto3.Session().get_credentials()
+    awsauth = AWS4Auth(
+        credentials.access_key,
+        credentials.secret_key,
+        region,
+        'aoss',
+        session_token=credentials.token
+    )
+
+    # OpenSearch 클라이언트 생성
+    client = OpenSearch(
+        hosts=[{
+            'host': opensearch_endpoint.replace("https://", ""),
+            'port': 443
+        }],
+        http_auth=awsauth,
+        use_ssl=True,
+        verify_certs=True,
+        connection_class=RequestsHttpConnection,
+        timeout=300
+    )
+
+    # 데이터 액세스 규칙이 적용될 때까지 대기
+    time.sleep(45)
 
     documents = []
     for file_name, item in metadatas.items():
@@ -55,50 +88,52 @@ def insert_metadata_to_opensearch(metadata_file, bedrock_session,
 
         # logger.info(f"document: {document}")
 
-        # 문서 인덱싱 URL
-        doc_url = f"{opensearch_endpoint}/{index_name}/_doc"
-
         # 문서 인덱싱
-        response = requests.post(doc_url, auth=HTTPBasicAuth(
-            username, password), json=document)
+        response = client.index(
+            index=index_name,
+            body=document
+        )
 
         # 결과 출력
-        logger.info(f"Document indexing status: {response.status_code}")
-        logger.info(f"Response: {response.json()}")
+        logger.info(f"Document indexing status: {response}")
 
 
 def query_imagesearch_to_opensearch(query, query_type, doc_count=5, bedrock_session=None,
                                     opensearch_endpoint=None, index_name=None,
-                                    username=None, password=None):
-    logger.info(f"Starting query_imagesearch_to_opensearch with query: {
-                query}, doc_count: {doc_count}")
+                                    region='ap-northeast-2'):
+    logger.info(f"Starting query_imagesearch_to_opensearch with query: {query}, doc_count: {doc_count}")
 
-    if (opensearch_endpoint is None or
-            index_name is None or username is None or
-            password is None):
-        logger.error(
-            "opensearch_endpoint, index_name, username, password must be provided")
-        logger.error(f"opensearch_endpoint: {opensearch_endpoint}")
-        logger.error(f"index_name: {index_name}")
-        logger.error(f"username: {username}")
-        logger.error(f"password: {password}")
+    if opensearch_endpoint is None or index_name is None:
+        logger.error("opensearch_endpoint and index_name must be provided")
         return [], []
 
-    # Set OpenSearch endpoint and index name
-    logger.info(f"OpenSearch endpoint: {opensearch_endpoint}")
-    logger.info(f"Index name: {index_name}")
+    # AWS 인증 설정
+    credentials = boto3.Session().get_credentials()
+    awsauth = AWS4Auth(
+        credentials.access_key,
+        credentials.secret_key,
+        region,
+        'aoss',
+        session_token=credentials.token
+    )
 
-    # Set basic authentication information
-    logger.info(f"Username: {username}")
-    logger.info("Password: [REDACTED]")
+    # OpenSearch 클라이언트 생성
+    client = OpenSearch(
+        hosts=[{
+            'host': opensearch_endpoint.replace("https://", ""),
+            'port': 443
+        }],
+        http_auth=awsauth,
+        use_ssl=True,
+        verify_certs=True,
+        connection_class=RequestsHttpConnection,
+        timeout=300
+    )
 
-    # Query URL
-    query_url = f"{opensearch_endpoint}/{index_name}/_search"
-    logger.info(f"Query URL: {query_url}")
-
-    # Query body
+    # Query body 생성
     vector_query = bedrock.get_text_vector(bedrock_session, query)
     logger.info(f"Vector query generated: {len(vector_query)} dimensions")
+    
     if (query_type == "imagesearch"):
         query_body = {
             "size": doc_count,
@@ -149,22 +184,20 @@ def query_imagesearch_to_opensearch(query, query_type, doc_count=5, bedrock_sess
         }
     # logger.info(f"Query body: {json.dumps(query_body, indent=2)}")
 
-    # HTTP request
-    response = requests.get(query_url, auth=HTTPBasicAuth(
-        username, password), json=query_body)
-    logger.info(f"Response status code: {response.status_code}")
+    # OpenSearch 검색 실행
+    response = client.search(
+        index=index_name,
+        body=query_body
+    )
+    logger.info(f"Response status: {response}")
 
     # Process response
-    if response.status_code == 200:
-        response_json = response.json()
-        # logger.info(f"Response JSON: {json.dumps(response_json, indent=2)}")
-        images = []
-        contents = []
-        for hit in response_json['hits']['hits']:
-            # Extract image binary
+    images = []
+    contents = []
+    if 'hits' in response and 'hits' in response['hits']:
+        for hit in response['hits']['hits']:
             image_binary = hit['_source']['image']
             images.append(image_binary)
-            # Extract content
             content = hit['_source']['text']
             contents.append(content)
 
@@ -172,7 +205,6 @@ def query_imagesearch_to_opensearch(query, query_type, doc_count=5, bedrock_sess
         logger.info(f"Number of contents retrieved: {len(contents)}")
         return images, contents
     else:
-        logger.error(f"Error in OpenSearch query. Status code: {
-                     response.status_code}")
-        logger.error(f"Error response: {response.text}")
+        logger.error(f"Error in OpenSearch query")
+        logger.error(f"Error response: {response}")
         return [], []

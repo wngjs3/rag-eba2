@@ -1,0 +1,4 @@
+2024-12-11 23:57:12,092 - botocore.credentials - INFO - Found credentials from IAM Role: ec2admin
+2024-12-11 23:57:30,498 - lib.bedrock - INFO - length of images: 0, length of texts: 0
+2024-12-11 23:57:30,499 - lib.bedrock - INFO - Request type: general
+2024-12-11 23:57:30,506 - botocore.credentials - INFO - Found credentials from IAM Role: ec2admin

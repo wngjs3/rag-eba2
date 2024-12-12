@@ -1,0 +1,9 @@
+2024-12-11 15:47:29,437 - lib.bedrock - INFO - Starting extract_text_from_image_using_bedrock function
+2024-12-11 15:47:29,437 - lib.bedrock - INFO - Creating Bedrock runtime client
+2024-12-11 15:47:29,447 - botocore.credentials - INFO - Found credentials from IAM Role: ec2admin
+2024-12-11 15:47:29,504 - lib.bedrock - INFO - Reading image file: ./images_mu/page_0_main.png
+2024-12-11 15:47:29,505 - lib.bedrock - INFO - Image successfully encoded to base64
+2024-12-11 15:47:29,505 - lib.bedrock - INFO - Creating prompt
+2024-12-11 15:47:29,505 - lib.bedrock - INFO - Preparing request body
+2024-12-11 15:47:29,505 - lib.bedrock - INFO - Request body prepared
+2024-12-11 15:47:29,505 - lib.bedrock - INFO - Invoking model
