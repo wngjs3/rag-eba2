@@ -1,1 +1,32 @@
+# Log files
+log/*.log
+logfile
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+
+# Virtual environment
+venv/
+env/
+
+# PDF files in pdf directory (optional)
+pdf/*.pdf
+
+# Images directory (optional)
+images_mu/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Pipenv files
+Pipfile.lock
+
+# Other
+*.swp
 .DS_Store
